@@ -1,1 +1,5 @@
-＃你瞅啥呢
+#include  <stdio.h>
+main()
+{
+printf("你愁啥呢你");
+}
